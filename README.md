@@ -1,4 +1,9 @@
-![FUNCTION](https://user-images.githubusercontent.com/85819910/127728759-4ed12be8-458b-4f2a-80d0-dc69fe00bb6f.jpg)
+![prop1](https://user-images.githubusercontent.com/85819910/138098872-4a3e8001-1a17-4f83-a5ab-b34784a75b25.jpg)
+![prop2](https://user-images.githubusercontent.com/85819910/138098892-a0a05b7d-5116-4667-88d7-d9580979e88f.jpg)
+![prop3](https://user-images.githubusercontent.com/85819910/138098912-ec41ca34-e26a-4dac-a617-d674825bbf01.jpg)
+![prop4](https://user-images.githubusercontent.com/85819910/138098924-1f954038-afd2-4bc5-99d2-841472198152.jpg)
+![prop5](https://user-images.githubusercontent.com/85819910/138098945-21d9ebec-54c6-4b36-94ed-1554760a65ce.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
